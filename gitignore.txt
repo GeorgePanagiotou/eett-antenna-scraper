@@ -12,4 +12,5 @@ debug_response_page_*.html
 
 # VS Code settings
 .vscode/
+.lh/
 
